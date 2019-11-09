@@ -1,6 +1,9 @@
 # ionic-unnamed-tabs
 Test repo to show issue with unnamed tabs route
 
+## Demo link
+https://ionic-unnamed-tabs.firebaseapp.com/
+
 ## The issue
 I want to use ionic tabs, but I don't want the route to "tabs" to have the name "tabs".  
 I don't want `myapp.com/tabs/tab1`, I want `myapp.com/tab1`.
